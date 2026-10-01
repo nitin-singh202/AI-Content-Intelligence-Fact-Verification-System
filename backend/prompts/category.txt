@@ -1,0 +1,11 @@
+Classify the following text into exactly one category: Political, Social, Economic, General.
+
+Return ONLY a valid JSON object with no markdown, no preamble, no extra text.
+
+Schema:
+{
+  "category": "Political|Social|Economic|General"
+}
+
+Text:
+{input_text}
