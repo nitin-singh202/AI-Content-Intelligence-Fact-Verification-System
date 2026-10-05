@@ -1,6 +1,10 @@
 # AI-Content-Intelligence-Fact-Verification-System
 > **An Evidence-Grounded, LLM-Powered Retrieval-Augmented Fact Verification & Content Intelligence Engine**
 
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/P64QaBpfB-U)
+
+![AI Content Intelligence Fact Verification System Demo](./AI-Content-Intelligence-Fact-Verification-System.gif)
+
 ---
 
 ## 1. Executive Summary & Problem Statement
